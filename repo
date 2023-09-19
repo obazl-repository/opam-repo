@@ -11,4 +11,4 @@ announce: [
 """
     {opam-version >= "2.0.10" & opam-version < "2.1.0~~"}
 ]
-stamp: "21fa81e7957f28dce0564e594e1d0f6e868f710a"
+stamp: "e4f9b58a74669694aaed58d060617b64ad25f7ae"
