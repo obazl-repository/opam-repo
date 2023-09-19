@@ -18,3 +18,6 @@ install: [
   ["bazel" "--batch" "--output_base=.bazel_build" "--output_user_root=.bazel_user" "run" "opam:install" "--repository_cache=.bazel_repo_cache" "--subcommands=pretty_print" "--verbose_failures" "--spawn_strategy=local"]
 ]
 
+url {
+  src: "https://github.com/obazl/coswitch/archive/refs/heads/dev.zip"
+}
