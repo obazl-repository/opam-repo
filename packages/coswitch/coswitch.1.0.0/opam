@@ -1,6 +1,6 @@
 opam-version: "2.0"
 name: "coswitch"
-version: "1.0.1"
+version: "1.0.0"
 synopsis: "One-line description"
 maintainer: "Name <email>"
 authors: "Name <email>"
@@ -19,5 +19,5 @@ install: [
 ]
 
 url {
-  src: "https://github.com/obazl/coswitch/archive/refs/heads/dev.zip"
+  src: "/Users/gar/obazl/coswitch"
 }
